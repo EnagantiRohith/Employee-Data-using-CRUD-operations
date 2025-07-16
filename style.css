@@ -1,0 +1,50 @@
+body { 
+  font-family: Arial, sans-serif; 
+  background: #f4f4f4; 
+  padding: 20px; 
+}
+.container { 
+  max-width: 900px;
+   margin: auto; 
+  background: #fff; 
+  padding: 20px; 
+  border-radius: 8px; 
+  border: 1px solid rgb(198, 198, 198);
+}
+button { 
+  padding: 8px 12px; 
+  margin: 5px; 
+  cursor: pointer; 
+}
+.hidden { 
+  display: none; 
+}
+table { 
+  width: 100%; 
+  border-collapse: collapse; 
+  margin-top: 20px;
+  border: 1px solid black; 
+}
+thead { 
+  background: #333; 
+  color: #fff; 
+}
+td, th { 
+  padding: 10px; 
+  border: 1px solid #ccc; 
+  text-align: center; 
+  /* border: none; */
+}
+
+tr:nth-child(even):not(thead){
+  background-color: rgb(234, 234, 234);
+}
+
+form input { 
+  margin: 5px; 
+  padding: 8px; 
+}
+
+#addUserBtn{
+  background-color: rgb(15, 150, 253);
+}
