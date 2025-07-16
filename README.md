@@ -4,7 +4,7 @@ A lightweight, responsive web application that enables full CRUD (Create, Read, 
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This Employee Management System is a modern frontend application designed to manage employee data seamlessly. It allows users to:
 - Add new employees
@@ -16,7 +16,7 @@ All data is persisted and managed through **MockAPI**, simulating a real backend
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - **HTML5** - For structuring the content
 - **CSS3** - For styling and layout
@@ -24,6 +24,4 @@ All data is persisted and managed through **MockAPI**, simulating a real backend
 - **MockAPI** - As a mock REST API service to simulate backend
 
 ---
-
-## 📂 Project Structure
 
